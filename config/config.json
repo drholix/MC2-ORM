@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "binar",
+    "password": "keren",
+    "database": "orm2_database_development",
+    "host": "sql.madecanggih.dev",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "binar",
+    "password": "keren",
+    "database": "orm2_database_development",
+    "host": "sql.madecanggih.dev",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "binar",
+    "password": "keren",
+    "database": "orm2_database_development",
+    "host": "sql.madecanggih.dev",
+    "dialect": "postgres"
+  }
+}
